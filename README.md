@@ -7,8 +7,8 @@ Single Page Application em Angular
 
 Instalar:
 
-npm install -g @angular/cli
+`npm install -g @angular/cli`
 
 Iniciar aplicação:
 
-ng serve --open
+`ng serve --open`
